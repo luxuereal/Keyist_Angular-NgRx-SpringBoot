@@ -1,15 +1,13 @@
 # Keyist Ecommerce
 
-Demo is now available at https://keyist-frontend.web.app/ 🔑
 
+![alt text](https://github.com/deverabit/Keyist_Angular-NgRx-SpringBoot/blob/master/screen_shots/detail.png)
 
-![alt text](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/screen_shots/detail.png)
+![alt text](https://github.com/deverabit/Keyist_Angular-NgRx-SpringBoot/blob/master/screen_shots/cart.png)
 
-![alt text](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/screen_shots/cart.png)
+![alt text](https://github.com/deverabit/Keyist_Angular-NgRx-SpringBoot/blob/master/screen_shots/browse.png)
 
-![alt text](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/screen_shots/browse.png)
-
-![alt text](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/screen_shots/orders.png)
+![alt text](https://github.com/deverabit/Keyist_Angular-NgRx-SpringBoot/blob/master/screen_shots/orders.png)
 
 
 ## Getting Started
@@ -138,19 +136,10 @@ If you want to use development versions of the Dockerfiles, you need to setup do
 
 
 
-## Known Bugs and Issues
-
-* CORS filter allows requests from every url.
-* You might be interested is not functional at this version.
-* Sometimes when you refresh the page loading cart stucks.
-* No admin panel at all as of yet.
-* Shipping status only supports packaging and shipped ( 0-1 )
-* No cargo firm selecting when purchasing.
-* Mobile devices are not supported, yet. Contributons are welcome!
 
 ## Contributing
 
-If you want to contribute to this project you can email me - antkaynak1@gmail.com or you can pull request.
+If you want to contribute to this project you can email me - deverabit@gmail.com or you can pull request.
 
 ## Versioning
 
@@ -159,12 +148,10 @@ This project does not have versioning and made with learning purposes.
 
 ## Authors 
 
-* **Ant Kaynak** - *Initial work* - [Github](https://github.com/antkaynak)
+* **Deverabit** - *Initial work* - [Github](https://github.com/deverabit)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/antkaynak/Keyist-Ecommerce/blob/master/LICENSE) for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/deverabit/Keyist_Angular-NgRx-SpringBoot/blob/master/LICENSE) for details.
 
-# Questions
-If you have any questions mail me -  antkaynak1@gmail.com
 
